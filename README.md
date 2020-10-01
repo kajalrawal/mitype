@@ -11,7 +11,9 @@
 <img src="img/demo.gif" alt=>
 </p>
 
-**Mitype** is a program to test (and hence improve) your typing speed right from the ease of your terminal.
+**Mitype** is a program to test and improve your typing speed and accuracy. Using **Mitype** , you can check and measure your typing speed from Terminal. You might already be using any GUI-based utilities for this purpose. However, **Mitype** has many features that any GUI based typing speed tester utilities have.
+
+Here are the prominent features of Wpm:
 
 Written completely in python with no external dependencies!
 
